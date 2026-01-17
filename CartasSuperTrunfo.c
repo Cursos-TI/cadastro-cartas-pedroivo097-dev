@@ -73,29 +73,5 @@ scanf ("%d", &pontosturisticos2);
 return 0;
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 }
 
-
-
-
-
-
-
-
-
-
-
-
-}
