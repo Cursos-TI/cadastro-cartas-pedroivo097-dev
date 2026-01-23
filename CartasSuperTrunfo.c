@@ -24,7 +24,7 @@ float pib2;
 int pontosturisticos2;
 float densidade2, pibpercapita2;
 
-printf ("Cadastro da primeira carta: \n");
+printf ("***Cadastro da primeira carta***: \n");
 
 printf ("Digite seu estado: \n");
 scanf("%s", &estado1);
@@ -53,7 +53,7 @@ pibpercapita1 = pib1 / populacao1;
 printf ("densidade populacional: %f\n", densidade1);
 printf ("PIB per capita: %f\n", pibpercapita1);
 
-printf ("Cadastro da segunda carta: \n");
+printf ("***Cadastro da segunda carta***: \n");
 
 
 printf ("Digite seu estado: \n");
